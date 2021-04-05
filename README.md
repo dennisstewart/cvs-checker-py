@@ -1,7 +1,7 @@
 # cvs-checker-py
 
 ### how-to
-Run the `checkSTATEappointments` file for your state (or city). The program will check for appointments every 60 seconds, and will begin to play music once CVS has appointments available. 
+Run the `STATE_check_appointments` file for your state (or city). The program will check for appointments every 60 seconds, and will begin to play music once CVS has appointments available. 
 
 Run `soundcheck` to make sure the music is audible.
 
